@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChildhoodHeroAPI", "ChildhoodHeroAPI.csproj", "{09D2F5A9-EBCB-491A-BFFA-1EA77E2DA4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D2F5A9-EBCB-491A-BFFA-1EA77E2DA4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D2F5A9-EBCB-491A-BFFA-1EA77E2DA4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D2F5A9-EBCB-491A-BFFA-1EA77E2DA4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D2F5A9-EBCB-491A-BFFA-1EA77E2DA4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436BA090-097C-40F0-9CEF-E22CA32E199A}
+	EndGlobalSection
+EndGlobal
